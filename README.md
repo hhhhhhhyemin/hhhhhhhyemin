@@ -48,3 +48,7 @@ Dacon is site that hosts AI Challenge like kaggle.
 **`도배 하자 질의 응답 처리: 한솔데코 시즌2 AI 경진대회, 주최: 한솔 데코 79/557 상위 15%`**
 
 [Dacon Link](https://dacon.io/competitions/official/236216/overview/description)
+
+
+## 💻 Task
+Dacon is site that hosts AI Challenge like kaggle.
