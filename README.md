@@ -45,7 +45,9 @@ Dacon is site that hosts AI Challenge like kaggle.
 
 [Dacon link](https://dacon.io/competitions/official/236156/overview/description)
 
-**`2024 생명연구자원 AI활용 경진대회 : 인공지능 활용 부, 주최: 과학기술정보통신부, 한국생명공학연구원, 국가생명연구자원정보센터 79/940 상위 9%`**
+**`2024 생명연구자원 AI활용 경진대회 : 인공지능 활용 부, 주최: 과학기술정보통신부,한국생명공학연구원,국가생명연구자원정보센터 79/940 상위 9%`**
+
+[Dacon link](https://dacon.io/competitions/official/236355/overview/description)
 
 **`도배 하자 질의 응답 처리: 한솔데코 시즌2 AI 경진대회, 주최: 한솔 데코 79/557 상위 15%`**
 
