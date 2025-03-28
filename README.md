@@ -22,7 +22,7 @@ class DataScientist:
     def __init__(self):
         self.name = "Hyemin park"
         self.role = "Data Scientist"
-        self.age = "24"
+        self.age = "25"
         self.major = "statistics"
         
     def say_hi(self):
