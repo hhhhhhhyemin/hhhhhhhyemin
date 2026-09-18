@@ -54,5 +54,23 @@ Dacon is site that hosts AI Challenge like kaggle.
 [Dacon Link](https://dacon.io/competitions/official/236216/overview/description)
 
 
-## 💻 Task
-Dacon is site that hosts AI Challenge like kaggle.
+## 💻 Project 
+
+## 🌱 Paper
+(Under review) A Deep Learning Model Leveraging Multi-Source Optical Coherence Tomography Imaging Platform
+
+(투고 준비 중) A Unified Deep Learning Framework for Multimodal Fundus Image-Based Glaucoma Grading and Uncertainty Estimation
+
+(학위논문) Deep Learning-based Multimodal Framework for Glaucoma Diagnosis by Integration Fundus Images and Vascular Extraction Features
+
+(2저자) 아스팔트 층 두께 예측을 위한 통계적 모형과 기계학습 기법 활용에 대한 연구
+
+(2저자) 수질무인관측선 센서 기반 수질 모니터링 및 예측에 관한 연구
+
+
+## ⚡ Conference
+(포스터)[2024 한국통계학회 동계학술논문발표회] Classification of Optical Coherence Tomography Images with Deep Learning: External Validation and Implications for Clinical Practice
+
+(포스터)[2025 한국통계학회 하계 학술논문발표회] Uncertainty-Aware Representation Alignment of Fundus and OCT Images for Multimodal Glaucoma Diagnosis
+
+(
